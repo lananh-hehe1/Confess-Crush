@@ -1,0 +1,16 @@
+const CONFIG = {
+    titleWeb: "Hello Linh",
+    introTitle: 'Lanh đây',
+    introDesc: `Hôm nay m bước sang tuổi 15 òi chúc mọi điều tốt đẹp sẽ đến với m nhá và bớt dỗi t nhé! Iu m nhiều`,
+    btnIntro: '^^HiHi^^',
+    title: 'Chúc mừng sinh nhật 🥰',
+    desc: 'M có thích món quà này của t ko nè?  ',
+    btnYes: 'Yêu lắm cơ <33',
+    btnNo: 'Không nha :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại chọn mình là bạn <3',
+    btnReply: 'Gửi Lanh yêu quá cơ <3',
+    reply: ' Vì chúng ta là bạn mà haha<33333333',
+    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: 'Chúc bạn snvv nhá.',
+    btnAccept: 'Okiiiii lun <3',
+}
