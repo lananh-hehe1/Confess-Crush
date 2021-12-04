@@ -1,5 +1,4 @@
 const CONFIG = {
-    titleWeb: 'Hello Linh',
     introTitle: 'Lanh đây',
     introDesc: `Hôm nay m bước sang tuổi 15 òi chúc mọi điều tốt đẹp sẽ đến với m nhá và bớt dỗi t nhé! Iu m nhiều`,
     btnIntro: '^^HiHi^^',
